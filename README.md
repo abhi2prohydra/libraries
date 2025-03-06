@@ -6,3 +6,5 @@
 
 <h4> required libraries for aos  : aos  </h4> //  npm install aos  
 
+<h4> required libraries for animejs  : animejs  </h4> //  npm install animejs  
+
